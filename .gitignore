@@ -1,0 +1,34 @@
+# Local builds and generated distributions
+.build*/
+.swiftpm/
+build/
+dist/
+DerivedData/
+*.noindex/
+*.app/
+*.dSYM/
+*.xcarchive/
+*.pkg
+*.dmg
+*.zip
+*.log
+
+# Xcode and Finder user state
+xcuserdata/
+*.xcuserstate
+.DS_Store
+
+# Local signing material and environment configuration
+.env
+.env.*
+*.p8
+*.p12
+*.pfx
+*.pem
+*.key
+*.cer
+*.mobileprovision
+*.provisionprofile
+*.xcconfig.local
+ExportOptions.local.plist
+UploadOptions.local.plist

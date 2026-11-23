@@ -1,0 +1,12 @@
+Scanned material maps from Poly Haven, released under CC0 1.0.
+https://polyhaven.com/license
+https://creativecommons.org/publicdomain/zero/1.0/
+
+https://polyhaven.com/a/bark_willow
+https://polyhaven.com/a/forest_floor
+https://polyhaven.com/a/river_small_rocks
+https://polyhaven.com/a/rock_boulder_dry
+
+The original downloaded files and SHA-256 hashes are recorded in sources.json.
+
+https://polyhaven.com/a/mossy_rock

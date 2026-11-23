@@ -1,0 +1,137 @@
+[
+  {
+    "file": "river_small_rocks_color.jpg",
+    "asset": "river_small_rocks",
+    "page": "https://polyhaven.com/a/river_small_rocks",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/river_small_rocks/river_small_rocks_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "adbcaae1f1445d5b49797c71ea2c3f43ccaf7b109f933a427f0d0993d1dbbc51",
+    "bytes": 1028735
+  },
+  {
+    "file": "river_small_rocks_normal.jpg",
+    "asset": "river_small_rocks",
+    "page": "https://polyhaven.com/a/river_small_rocks",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/river_small_rocks/river_small_rocks_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "983f99bd61cdcdeb3d2ebe0cbba851fd58f249d38f9e76a25084a558ee56e8e6",
+    "bytes": 1365737
+  },
+  {
+    "file": "river_small_rocks_arm.jpg",
+    "asset": "river_small_rocks",
+    "page": "https://polyhaven.com/a/river_small_rocks",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/river_small_rocks/river_small_rocks_arm_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "af3438a86857c15bf9efcc6abbbef0648d586312271540c34dc86b64901c8f66",
+    "bytes": 932251
+  },
+  {
+    "file": "rock_boulder_dry_color.jpg",
+    "asset": "rock_boulder_dry",
+    "page": "https://polyhaven.com/a/rock_boulder_dry",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "20f653a42fb24f42aa40641663070d578678da49af18cc1049dbdd4ed8679f3c",
+    "bytes": 859211
+  },
+  {
+    "file": "rock_boulder_dry_normal.jpg",
+    "asset": "rock_boulder_dry",
+    "page": "https://polyhaven.com/a/rock_boulder_dry",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "5915fea28a97357c78a04fb31c2516f1f7ed1b3a9cef4ae25aa93e4655e6c595",
+    "bytes": 802497
+  },
+  {
+    "file": "rock_boulder_dry_arm.jpg",
+    "asset": "rock_boulder_dry",
+    "page": "https://polyhaven.com/a/rock_boulder_dry",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_arm_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "350d01c63afc01cd9bcb9bc47afdd24292198ff1c5fcef1c49281c1b85dc2872",
+    "bytes": 784728
+  },
+  {
+    "file": "bark_willow_color.jpg",
+    "asset": "bark_willow",
+    "page": "https://polyhaven.com/a/bark_willow",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_willow/bark_willow_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "c7de3072c2320934a3d9f5bc6c9cb58819952c0b3bd04f4e71b24cf89dbb6ad6",
+    "bytes": 779438
+  },
+  {
+    "file": "bark_willow_normal.jpg",
+    "asset": "bark_willow",
+    "page": "https://polyhaven.com/a/bark_willow",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_willow/bark_willow_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "9d5a771315a85c2d890526af9826843e7967ed3330da49bef7e86c3e5a6c0b6a",
+    "bytes": 1438304
+  },
+  {
+    "file": "bark_willow_arm.jpg",
+    "asset": "bark_willow",
+    "page": "https://polyhaven.com/a/bark_willow",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_willow/bark_willow_arm_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "e95d9655dbb91b9be744718bb79e3ff1ad5c00dd4eed8de69bd6c381e8d8b0e9",
+    "bytes": 979678
+  },
+  {
+    "file": "forest_floor_color.jpg",
+    "asset": "forest_floor",
+    "page": "https://polyhaven.com/a/forest_floor",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_floor/forest_floor_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "f12e5adea1741f9eb7a528bfc621f8267885b9530b74c3a8afdb823899bdbf0b",
+    "bytes": 1329853
+  },
+  {
+    "file": "forest_floor_normal.jpg",
+    "asset": "forest_floor",
+    "page": "https://polyhaven.com/a/forest_floor",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_floor/forest_floor_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "681f3de8c756c4d19bcda33039f953295498f38b1425ce9d56b37d6f97f6e518",
+    "bytes": 1380104
+  },
+  {
+    "file": "forest_floor_arm.jpg",
+    "asset": "forest_floor",
+    "page": "https://polyhaven.com/a/forest_floor",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_floor/forest_floor_arm_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "b9443866b317194651550d6d961413f529a17e85a87e3e0a8289ec022cc39090",
+    "bytes": 931479
+  },
+  {
+    "file": "mossy_rock_color.jpg",
+    "asset": "mossy_rock",
+    "page": "https://polyhaven.com/a/mossy_rock",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "4dbf37f1b0465c9c8914213163923be159716f5b97fb6946437b6c5e143ef540",
+    "bytes": 1124438
+  },
+  {
+    "file": "mossy_rock_normal.jpg",
+    "asset": "mossy_rock",
+    "page": "https://polyhaven.com/a/mossy_rock",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "232cdd6a9fdfd01bb8bb1f8f604c53dbca79fa0d3d7995edf85c9945757aa8df",
+    "bytes": 995727
+  },
+  {
+    "file": "mossy_rock_arm.jpg",
+    "asset": "mossy_rock",
+    "page": "https://polyhaven.com/a/mossy_rock",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_arm_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "1c1b8da603c93e863ccb68a8f4fcc6ff02774b83d9a6e9422c7d4aa77397b6a3",
+    "bytes": 926941
+  }
+]
